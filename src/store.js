@@ -20,7 +20,5 @@ export default new Vuex.Store({
       return "current count is: " + state.count;
     }
   },
-  actions: {
-
-  }
-})
+  actions: {}
+});
